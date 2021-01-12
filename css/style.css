@@ -1,0 +1,17 @@
+.panda{
+
+    border: 0;
+}
+
+.foot{
+    background-color: white;
+}
+
+.catagories img {
+
+    width: 80px;
+}
+.panda-pic{
+    background-color: hsla(300, 80%, 85%, 0.616);
+    border-radius: 1em;
+}
